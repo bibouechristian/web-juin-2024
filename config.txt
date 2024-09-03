@@ -1,1 +1,2 @@
 Objectif : Repertorier les differents parametres du projet
+Porte du fichier : local
